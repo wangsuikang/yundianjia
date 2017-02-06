@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>image_tf_bg</key>
+	<string>ump_bg_input</string>
+	<key>image_tf_bg_warning</key>
+	<string>ump_bg_input_warning</string>
+	<key>image_loading</key>
+	<string>ump_loading_logo</string>
+	<key>image_checkbox</key>
+	<string>ump_check_off</string>
+	<key>image_checkbox_checked</key>
+	<string>ump_check_on</string>
+	<key>image_back_normal</key>
+	<string>ump_icon_back</string>
+	<key>image_back_focus</key>
+	<string>ump_icon_back_focus</string>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+
+# solution of file ".pbxproj"'s conflict
+*.pbxproj text -crlf -diff -merge=union
+*.pbxuser -crlf -diff -merge
